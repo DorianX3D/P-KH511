@@ -125,3 +125,19 @@ offline-hn:
 
   anti_features:
     - NonFreeNet
+
+blitzmods_wrapper:
+  git: https://github.com/DorianX3D/KH511
+  name: "BlitzMods Wrapper"
+  description: |
+    Probador web de BlitzMods.
+  categories:
+    - Internet
+
+blitzmods_wrapper:
+  git: https://github.com/DorianX3D/KH511
+  name: "BlitzMods Wrapper"
+  description: |
+    Probador web de BlitzMods.
+  categories:
+    - Internet
