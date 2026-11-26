@@ -1,11 +1,11 @@
 {
   "repo": {
-    "timestamp": 1795197210000,
+    "timestamp": 1795683072000,
     "version": 20002,
-    "name": "Apps by xarantolus",
+    "name": "Repo de P-KH51",
     "icon": "icon.png",
-    "address": "https://raw.githubusercontent.com/xarantolus/fdroid/main/fdroid/repo",
-    "description": "A repo that contains all apps by xarantolus."
+    "address": "https://raw.githubusercontent.com/DorianXD3/P-KH511/main/fdroid/repo",
+    "description": "Coleccion de apps libres"
   },
   "requests": {
     "install": [],

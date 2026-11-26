@@ -1,20 +1,20 @@
 {
   "repo": {
     "name": {
-      "en-US": "Apps by xarantolus"
+      "en-US": "Repo de P-KH51"
     },
     "description": {
-      "en-US": "A repo that contains all apps by xarantolus."
+      "en-US": "Coleccion de apps libres"
     },
     "icon": {
       "en-US": {
         "name": "/icons/icon.png",
-        "sha256": "67e1ca0b4c61f5fd3d598c7f0541e4c9062f338805f469c545277a3743f74edb",
-        "size": 998
+        "sha256": "56a87b9b286318af0e36a9281ae27220a4d6068222066c6258e4daa4b774fb68",
+        "size": 983
       }
     },
-    "address": "https://raw.githubusercontent.com/xarantolus/fdroid/main/fdroid/repo",
-    "timestamp": 1795197210000,
+    "address": "https://raw.githubusercontent.com/DorianXD3/P-KH511/main/fdroid/repo",
+    "timestamp": 1795683072000,
     "categories": {
       "Forum": {
         "name": {
