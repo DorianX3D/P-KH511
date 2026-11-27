@@ -1,17 +1,6 @@
 # fdroid
 This repository hosts an [F-Droid](https://f-droid.org/) repo for my apps. This allows you to install and update apps very easily.
 
-### Apps
-
-<!-- This table is auto-generated. Do not edit -->
-| Icon | Name | Description | Version |
-| --- | --- | --- | --- |
-| <a href="https://github.com/xarantolus/matterleast"><img src="fdroid/repo/io.github.xarantolus.matterleast/en-US/icon_emU1g0kwZUZPFoMQZFU0GppFryIYPf1bNkrzpPSw5U4=.png" alt="Matterleast icon" width="36px" height="36px"></a> | [**Matterleast**](https://github.com/xarantolus/matterleast) | Third-party Mattermost client with a Discord-like feel. Not affiliated with o... | 0.52.0 (84) |
-| <a href="https://github.com/xarantolus/notality"><img src="fdroid/repo/io.github.xarantolus.notality/en-US/icon_cRxo_tbd9b_U71eqejr171tzNtqygaHTncWFl4I0DkU=.png" alt="Notality icon" width="36px" height="36px"></a> | [**Notality**](https://github.com/xarantolus/notality) | A very simple note taking app for Android | 1.9.0 (11) |
-| <a href="https://github.com/xarantolus/offline-hn"><img src="fdroid/repo/io.github.xarantolus.offlinehn/en-US/icon_FEWOdPwBlwQjqOFUPilMkEehO2qNL8V3QaCmZbOtEf4=.png" alt="Offline HN icon" width="36px" height="36px"></a> | [**Offline HN**](https://github.com/xarantolus/offline-hn) | Hacker News Client with offline caching of pages | 0.11.0 (24) |
-| <a href="https://github.com/xarantolus/rockit"><img src="fdroid/repo/io.github.xarantolus.rockit/en-US/icon_OWiNCX3blbejcMlFEOTgHrKN32Q7UElOeEtytHBEPbo=.png" alt="Rock It! icon" width="36px" height="36px"></a> | [**Rock It!**](https://github.com/xarantolus/rockit) | Rock It! is an Android app that helps you stay informed on all things space | 1.7.1 (25) |
-<!-- end apps table -->
-
 ### How to use
 1. At first, you should [install the F-Droid app](https://f-droid.org/), it's an alternative app store for Android.
 2. Now you can copy the following [link](https://raw.githubusercontent.com/xarantolus/fdroid/main/fdroid/repo?fingerprint=080898ae4309aeceb58915e43a4b7c4a3e2cda40c91738e2c02f58339ab2fbd7), then add this repository to your F-Droid client:
